@@ -12,7 +12,7 @@ namespace AllMediaDesk
             var calculator = new RegexCalculator.RegexCalculator();
             var result = calculator.Calculate(input);
             Console.WriteLine("The answer is: " + result);
-            Console.WriteLine();
+            Console.ReadKey(true);
         }
     }
 }

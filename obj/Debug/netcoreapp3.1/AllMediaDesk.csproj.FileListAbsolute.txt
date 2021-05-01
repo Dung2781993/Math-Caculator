@@ -10,3 +10,8 @@ D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.As
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.dll
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.pdb
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.genruntimeconfig.cache
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\GemBox.Spreadsheet.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Spreadsheet.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csproj.CoreCompileInputs.cache
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csproj.CopyComplete

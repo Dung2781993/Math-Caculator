@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xlsMREC8EvsuinttjbeRDWbzQt/VEF/GPdW4nPORY3XnJKRVCuULEl78fJyot74I8b2sJqS5KiHMn2Q5SZu8Pw==",
+  "dgSpecHash": "3RlU4H2RkARXpEVXGHt3RenM5p6RRnL5TzNVz5wEx343uVp+TzEhz66dFPU1jCzezV10cZf9O0IHmPTnp+48Cg==",
   "success": true,
   "projectFilePath": "D:\\Working\\src\\AllMediaDesk\\AllMediaDesk\\AllMediaDesk.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason Le\\.nuget\\packages\\gembox.spreadsheet\\47.0.1170\\gembox.spreadsheet.47.0.1170.nupkg.sha512",
+    "C:\\Users\\Jason Le\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
   "logs": []
 }

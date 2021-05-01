@@ -7,7 +7,6 @@ D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.pd
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csprojAssemblyReference.cache
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.AssemblyInfoInputs.cache
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.AssemblyInfo.cs
-D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csproj.CoreCompileInputs.cache
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.dll
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.pdb
 D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.genruntimeconfig.cache

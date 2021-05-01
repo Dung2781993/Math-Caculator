@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllMediaDesk", "AllMediaDes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestAscendingOrder", "..\ClosestAscendingOrder\ClosestAscendingOrder.csproj", "{79468B4F-9DFA-418E-AD83-94527DCFB2D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotApplication", "..\PlotApplication\PlotApplication.csproj", "{6A076DCF-A3BE-4261-A6D3-43DBFEB46D8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79468B4F-9DFA-418E-AD83-94527DCFB2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79468B4F-9DFA-418E-AD83-94527DCFB2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79468B4F-9DFA-418E-AD83-94527DCFB2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A076DCF-A3BE-4261-A6D3-43DBFEB46D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A076DCF-A3BE-4261-A6D3-43DBFEB46D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A076DCF-A3BE-4261-A6D3-43DBFEB46D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A076DCF-A3BE-4261-A6D3-43DBFEB46D8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
